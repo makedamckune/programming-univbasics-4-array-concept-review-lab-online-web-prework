@@ -1,5 +1,5 @@
-def find_element_index(array, value_to_find)
-  # Add your solution here
+def age([18,32,53,98] )
+  
 end
 
 def find_max_value(array)
